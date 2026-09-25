@@ -1,5 +1,5 @@
 ### Ankit Singh
-**Data Scientist with a PhD in Physics** | Research Fellow, University of Nottingham
+**Data Scientist with a PhD in Physics** 
 
 I build end-to-end machine learning systems, from data pipelines to deployed services,
 on top of 10+ years working with terabyte-scale scientific data, statistical modeling,
